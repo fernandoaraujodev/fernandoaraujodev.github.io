@@ -1,0 +1,16 @@
+
+nav ul li .nav-cv {
+	text-align: center;
+	width: 110px;
+	background-color: #FF6600; 
+	border-radius:14px;
+	font-weight: bold;
+}
+
+nav ul li .nav-cv:hover{
+	background-color: #fff;	
+    color: #FF6600!important;
+}
+
+
+
